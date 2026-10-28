@@ -1,0 +1,11 @@
+Hill Climbing Optimization:
+Objective: Maximize f(x) = -(x - 3)^2 + 9
+Initial State: x = 0, f(x) = 0
+Step 1: Current x=0 (f=0) | Left x=-1 (f=-7) | Right x=1 (f=5)
+Step 2: Current x=1 (f=5) | Left x=0 (f=0) | Right x=2 (f=8)
+Step 3: Current x=2 (f=8) | Left x=1 (f=5) | Right x=3 (f=9)
+Step 4: Current x=3 (f=9) | Left x=2 (f=8) | Right x=4 (f=8)
+
+Optimized Result:
+  Best State (x): 3
+  Best Value f(x): 9

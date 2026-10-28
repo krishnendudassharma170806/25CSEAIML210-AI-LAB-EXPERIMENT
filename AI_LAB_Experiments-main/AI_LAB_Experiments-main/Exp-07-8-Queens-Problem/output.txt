@@ -1,0 +1,13 @@
+Solving 8-Queens Problem using Backtracking...
+
+Solution for 8-Queens Problem:
+-----------------
+ Q . . . . . . .
+ . . . . Q . . .
+ . . . . . . . Q
+ . . . . . Q . .
+ . . Q . . . . .
+ . . . . . . Q .
+ . Q . . . . . .
+ . . . Q . . . .
+-----------------

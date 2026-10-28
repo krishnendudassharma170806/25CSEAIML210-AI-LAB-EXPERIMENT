@@ -1,0 +1,11 @@
+Water Jug Problem Configuration:
+  Jug A Capacity : 4 Liters
+  Jug B Capacity : 3 Liters
+  Target Volume  : 2 Liters
+
+Solution Path (Jug A, Jug B):
+  Step 0: Jug A = 0L, Jug B = 0L
+  Step 1: Jug A = 0L, Jug B = 3L
+  Step 2: Jug A = 3L, Jug B = 0L
+  Step 3: Jug A = 3L, Jug B = 3L
+  Step 4: Jug A = 4L, Jug B = 2L

@@ -1,0 +1,12 @@
+Graph Adjacency List with Edge Weights:
+  A -> [('B', 2), ('C', 4)]
+  B -> [('A', 2), ('D', 3)]
+  C -> [('A', 4), ('D', 1)]
+  D -> [('B', 3), ('C', 1), ('E', 2)]
+  E -> [('D', 2)]
+
+Heuristic Table h(n): {'A': 6, 'B': 5, 'C': 3, 'D': 2, 'E': 0}
+
+Executing A* Search from 'A' to 'E':
+Shortest Path: A -> B -> D -> E
+Total Cost: 7

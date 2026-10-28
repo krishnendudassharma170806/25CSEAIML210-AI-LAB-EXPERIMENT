@@ -1,0 +1,8 @@
+Game Tree Structure:
+  [[3, 5], [2, 9]]
+Initial Alpha: -inf | Initial Beta: inf
+
+Traversing Tree with Alpha-Beta Pruning:
+  [Pruned at Minimizer] alpha (3) >= beta (2)
+
+Optimal Value Determined: 3

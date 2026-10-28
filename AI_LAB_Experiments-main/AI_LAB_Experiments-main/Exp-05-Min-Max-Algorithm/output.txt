@@ -1,0 +1,4 @@
+Game Tree Terminal Leaf Values:
+  [3, 5, 2, 9, 12, 5, 23, 23]
+Height of Game Tree: 3
+Computed Optimal Value (Root - Maximizer): 12
